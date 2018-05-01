@@ -3,6 +3,7 @@
   "version": "0.0.2-1",
   "description": "Experimental MDX formatter",
   "main": "index.js",
+  "bin": "cli.js",
   "scripts": {
     "test": "ava -v"
   },
@@ -22,6 +23,7 @@
     "unified": "^6.1.6"
   },
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^0.25.0",
+    "execa": "^0.10.0"
   }
 }
