@@ -1,0 +1,27 @@
+{
+  "name": "mdxfmt",
+  "version": "0.0.1",
+  "description": "Experimental MDX formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "keywords": [
+    "mdx",
+    "mdxfmt",
+    "formatter"
+  ],
+  "author": "John Otander",
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdxast": "^0.7.2",
+    "prettier": "^1.12.1",
+    "remark-parse": "^5.0.0",
+    "remark-squeeze-paragraphs": "^3.0.1",
+    "remark-stringify": "^5.0.0",
+    "unified": "^6.1.6"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
