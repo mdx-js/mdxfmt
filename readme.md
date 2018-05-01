@@ -35,4 +35,4 @@ Key | Type | Description
 
 [mdx]: https://github.com/mdx-js/mdx
 [prettier]: https://prettier.io/docs/en/options.html
-[stringify]: https://github.com/remarkjs/remark/tree/master/packages/remark-stringify#options
+[remark-stringify]: https://github.com/remarkjs/remark/tree/master/packages/remark-stringify#options
