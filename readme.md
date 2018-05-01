@@ -4,11 +4,21 @@ An experimental code formatter for [MDX][mdx].
 
 ## Installation
 
+Use the API:
+
 ```
 npm i -D mdxfmt
 ```
 
+Using the CLI:
+
+```
+npm i -g mdxfmt
+```
+
 ## Usage
+
+Using the API:
 
 ```js
 const mdxfmt = require('mdxfmt')
@@ -24,6 +34,18 @@ from 'grid-styled'
 `
 
 mdxfmt(MDX)
+```
+
+Using the CLI:
+
+```
+❯ mdxfmt help
+
+    MDX code formatter
+
+    Usage:
+      mdxfmt file.md
+      mdxfmt file.md > formatted.md
 ```
 
 ### Options
