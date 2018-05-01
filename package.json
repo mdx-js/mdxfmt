@@ -1,6 +1,6 @@
 {
   "name": "mdxfmt",
-  "version": "0.0.1",
+  "version": "0.0.2-0",
   "description": "Experimental MDX formatter",
   "main": "index.js",
   "scripts": {
