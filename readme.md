@@ -4,7 +4,7 @@ An experimental code formatter for [MDX][mdx].
 
 ## Installation
 
-Use the API:
+Using the API:
 
 ```
 npm i -D mdxfmt
